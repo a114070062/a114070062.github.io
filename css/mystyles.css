@@ -1,0 +1,64 @@
+.Selinacenter{
+    text-align: center;
+    color: black;
+    background-color: antiquewhite;
+}
+.me{
+    background-color: bisque;
+    padding: 20px 30px;
+    border-radius: 15px;
+    color: black;
+    margin: 80px auto;
+    width: 80%;
+    overflow: auto;
+}
+.centercenter{
+    text-align: center;
+}
+a.linalink{
+    color: aquamarine;
+    padding:0 30px ;
+    border-radius: 40px;
+}
+a.linalink:hover{
+    background-color: aqua;
+    color: azure;
+}
+a.linalink{
+    color: antiquewhite;
+    padding: 0 30px;
+    border-radius: 40px;
+}
+.linalink{
+    background-color: bisque;
+    color: antiquewhite;
+}
+a.linalink:hover{
+    background-color: antiquewhite;
+    color: bisque;
+}
+.linabig{
+    font-size:20px;
+    font-weight: 800;
+}
+.lingo{
+    font-size:50px;
+    text-align:center;
+}
+section#about{
+    background-color:rgb(254, 217, 223);
+    background-image: url("../assets/img/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section#about h1{
+    color: black;
+}
+section#cta{
+    background-color: rgb(210, 210, 255);
+}
+section#cta h2{
+    color: black;
+}
