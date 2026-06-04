@@ -30,7 +30,7 @@ a.linalink{
     border-radius: 40px;
 }
 .linalink{
-    background-color: bisque;
+    background-color: rgb(243, 134, 194);
     color: antiquewhite;
 }
 a.linalink:hover{
