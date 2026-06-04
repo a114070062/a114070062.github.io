@@ -31,7 +31,7 @@ a.linalink{
 }
 .linalink{
     background-color:bisque;
-    color: antiquewhite;
+    color: rgb(82,45,9);
 }
 a.linalink:hover{
     background-color: antiquewhite;
