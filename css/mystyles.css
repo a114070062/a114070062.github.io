@@ -25,7 +25,7 @@ a.linalink:hover{
     color: azure;
 }
 a.linalink{
-    color: rgb(119, 92, 57);
+    color: bisque;
     padding: 0 30px;
     border-radius: 40px;
 }
@@ -35,7 +35,7 @@ a.linalink{
 }
 a.linalink:hover{
     background-color: antiquewhite;
-    color: bisque;
+    color: rgb(82, 45, 9);
 }
 .linabig{
     font-size:20px;
