@@ -62,3 +62,6 @@ section#cta{
 section#cta h2{
     color: black;
 }
+body{
+    font-family:"Noto Serif TC",serif;
+}
